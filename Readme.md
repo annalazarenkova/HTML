@@ -1,6 +1,6 @@
 # Täna katsetame HTML asju:
 
-PÕHI; KUST VAATADA; MIDA ME TEEME JA KATSETADA ON-LINE: https://www.w3schools.com/html/
+PÕHI, KUST VAATADA MIDA ME TÄNA TEEME JA KATSETADA ON-LINE: https://www.w3schools.com/html/
 
 1) tee omale uus kaust
 2) tee see kaust  VisualStudios lahti (open folder)
